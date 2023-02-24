@@ -7,3 +7,7 @@ Exoskeleton and wearable robots are playing an important role in people’s live
 
 
 
+You can find the paper I have written in the S20200020312.pdf file , where I talk abou the results i have achieved and different analysis.
+The data folder consists of the data of 4 subjects.
+
+Refer this paper : 10.1109/JSEN.2019.2937979
