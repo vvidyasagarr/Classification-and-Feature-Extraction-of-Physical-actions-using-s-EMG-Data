@@ -11,3 +11,4 @@ You can find the paper I have written in the S20200020312.pdf file , where I tal
 The data folder consists of the data of 4 subjects.
 
 Refer this paper : 10.1109/JSEN.2019.2937979
+Dataset used : https://archive.ics.uci.edu/ml/datasets/EMG+Physical+Action+Data+Set
